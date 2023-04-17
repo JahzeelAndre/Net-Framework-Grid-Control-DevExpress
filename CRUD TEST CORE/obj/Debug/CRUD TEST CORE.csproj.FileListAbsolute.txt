@@ -1,0 +1,6 @@
+C:\Users\JahzAndre\Documents\Aplicaciones\Aplicaciones Escritorio\Net\CRUD TEST\CRUD TEST CORE\bin\Debug\CRUD TEST CORE.dll
+C:\Users\JahzAndre\Documents\Aplicaciones\Aplicaciones Escritorio\Net\CRUD TEST\CRUD TEST CORE\bin\Debug\CRUD TEST CORE.pdb
+C:\Users\JahzAndre\Documents\Aplicaciones\Aplicaciones Escritorio\Net\CRUD TEST\CRUD TEST CORE\obj\Debug\CRUD TEST CORE.csproj.AssemblyReference.cache
+C:\Users\JahzAndre\Documents\Aplicaciones\Aplicaciones Escritorio\Net\CRUD TEST\CRUD TEST CORE\obj\Debug\CRUD TEST CORE.csproj.CoreCompileInputs.cache
+C:\Users\JahzAndre\Documents\Aplicaciones\Aplicaciones Escritorio\Net\CRUD TEST\CRUD TEST CORE\obj\Debug\CRUD TEST CORE.dll
+C:\Users\JahzAndre\Documents\Aplicaciones\Aplicaciones Escritorio\Net\CRUD TEST\CRUD TEST CORE\obj\Debug\CRUD TEST CORE.pdb

@@ -1,0 +1,47 @@
+C:\Users\JahzAndre\Documents\Aplicaciones\Aplicaciones Escritorio\Net\CRUD TEST\CRUD TEST\bin\Debug\CRUD TEST.exe.config
+C:\Users\JahzAndre\Documents\Aplicaciones\Aplicaciones Escritorio\Net\CRUD TEST\CRUD TEST\bin\Debug\CRUD TEST.exe
+C:\Users\JahzAndre\Documents\Aplicaciones\Aplicaciones Escritorio\Net\CRUD TEST\CRUD TEST\bin\Debug\CRUD TEST.pdb
+C:\Users\JahzAndre\Documents\Aplicaciones\Aplicaciones Escritorio\Net\CRUD TEST\CRUD TEST\bin\Debug\CRUD TEST CORE.dll
+C:\Users\JahzAndre\Documents\Aplicaciones\Aplicaciones Escritorio\Net\CRUD TEST\CRUD TEST\bin\Debug\DevExpress.Data.Desktop.v22.2.dll
+C:\Users\JahzAndre\Documents\Aplicaciones\Aplicaciones Escritorio\Net\CRUD TEST\CRUD TEST\bin\Debug\DevExpress.Data.v22.2.dll
+C:\Users\JahzAndre\Documents\Aplicaciones\Aplicaciones Escritorio\Net\CRUD TEST\CRUD TEST\bin\Debug\DevExpress.Drawing.v22.2.dll
+C:\Users\JahzAndre\Documents\Aplicaciones\Aplicaciones Escritorio\Net\CRUD TEST\CRUD TEST\bin\Debug\DevExpress.Printing.v22.2.Core.dll
+C:\Users\JahzAndre\Documents\Aplicaciones\Aplicaciones Escritorio\Net\CRUD TEST\CRUD TEST\bin\Debug\DevExpress.Utils.v22.2.dll
+C:\Users\JahzAndre\Documents\Aplicaciones\Aplicaciones Escritorio\Net\CRUD TEST\CRUD TEST\bin\Debug\DevExpress.XtraEditors.v22.2.dll
+C:\Users\JahzAndre\Documents\Aplicaciones\Aplicaciones Escritorio\Net\CRUD TEST\CRUD TEST\bin\Debug\DevExpress.XtraGrid.v22.2.dll
+C:\Users\JahzAndre\Documents\Aplicaciones\Aplicaciones Escritorio\Net\CRUD TEST\CRUD TEST\bin\Debug\DevExpress.XtraLayout.v22.2.dll
+C:\Users\JahzAndre\Documents\Aplicaciones\Aplicaciones Escritorio\Net\CRUD TEST\CRUD TEST\bin\Debug\DevExpress.XtraPrinting.v22.2.dll
+C:\Users\JahzAndre\Documents\Aplicaciones\Aplicaciones Escritorio\Net\CRUD TEST\CRUD TEST\bin\Debug\DevExpress.Pdf.v22.2.Core.dll
+C:\Users\JahzAndre\Documents\Aplicaciones\Aplicaciones Escritorio\Net\CRUD TEST\CRUD TEST\bin\Debug\DevExpress.Pdf.v22.2.Drawing.dll
+C:\Users\JahzAndre\Documents\Aplicaciones\Aplicaciones Escritorio\Net\CRUD TEST\CRUD TEST\bin\Debug\DevExpress.Sparkline.v22.2.Core.dll
+C:\Users\JahzAndre\Documents\Aplicaciones\Aplicaciones Escritorio\Net\CRUD TEST\CRUD TEST\bin\Debug\DevExpress.XtraBars.v22.2.dll
+C:\Users\JahzAndre\Documents\Aplicaciones\Aplicaciones Escritorio\Net\CRUD TEST\CRUD TEST\bin\Debug\DevExpress.RichEdit.v22.2.Core.dll
+C:\Users\JahzAndre\Documents\Aplicaciones\Aplicaciones Escritorio\Net\CRUD TEST\CRUD TEST\bin\Debug\DevExpress.XtraTreeList.v22.2.dll
+C:\Users\JahzAndre\Documents\Aplicaciones\Aplicaciones Escritorio\Net\CRUD TEST\CRUD TEST\bin\Debug\DevExpress.Office.v22.2.Core.dll
+C:\Users\JahzAndre\Documents\Aplicaciones\Aplicaciones Escritorio\Net\CRUD TEST\CRUD TEST\bin\Debug\CRUD TEST CORE.pdb
+C:\Users\JahzAndre\Documents\Aplicaciones\Aplicaciones Escritorio\Net\CRUD TEST\CRUD TEST\bin\Debug\DevExpress.Data.Desktop.v22.2.xml
+C:\Users\JahzAndre\Documents\Aplicaciones\Aplicaciones Escritorio\Net\CRUD TEST\CRUD TEST\bin\Debug\DevExpress.Data.v22.2.xml
+C:\Users\JahzAndre\Documents\Aplicaciones\Aplicaciones Escritorio\Net\CRUD TEST\CRUD TEST\bin\Debug\DevExpress.Printing.v22.2.Core.xml
+C:\Users\JahzAndre\Documents\Aplicaciones\Aplicaciones Escritorio\Net\CRUD TEST\CRUD TEST\bin\Debug\DevExpress.Utils.v22.2.xml
+C:\Users\JahzAndre\Documents\Aplicaciones\Aplicaciones Escritorio\Net\CRUD TEST\CRUD TEST\bin\Debug\DevExpress.XtraEditors.v22.2.xml
+C:\Users\JahzAndre\Documents\Aplicaciones\Aplicaciones Escritorio\Net\CRUD TEST\CRUD TEST\bin\Debug\DevExpress.XtraGrid.v22.2.xml
+C:\Users\JahzAndre\Documents\Aplicaciones\Aplicaciones Escritorio\Net\CRUD TEST\CRUD TEST\bin\Debug\DevExpress.XtraLayout.v22.2.xml
+C:\Users\JahzAndre\Documents\Aplicaciones\Aplicaciones Escritorio\Net\CRUD TEST\CRUD TEST\bin\Debug\DevExpress.XtraPrinting.v22.2.xml
+C:\Users\JahzAndre\Documents\Aplicaciones\Aplicaciones Escritorio\Net\CRUD TEST\CRUD TEST\bin\Debug\DevExpress.Pdf.v22.2.Core.xml
+C:\Users\JahzAndre\Documents\Aplicaciones\Aplicaciones Escritorio\Net\CRUD TEST\CRUD TEST\bin\Debug\DevExpress.Pdf.v22.2.Drawing.xml
+C:\Users\JahzAndre\Documents\Aplicaciones\Aplicaciones Escritorio\Net\CRUD TEST\CRUD TEST\bin\Debug\DevExpress.Sparkline.v22.2.Core.xml
+C:\Users\JahzAndre\Documents\Aplicaciones\Aplicaciones Escritorio\Net\CRUD TEST\CRUD TEST\bin\Debug\DevExpress.XtraBars.v22.2.xml
+C:\Users\JahzAndre\Documents\Aplicaciones\Aplicaciones Escritorio\Net\CRUD TEST\CRUD TEST\bin\Debug\DevExpress.RichEdit.v22.2.Core.xml
+C:\Users\JahzAndre\Documents\Aplicaciones\Aplicaciones Escritorio\Net\CRUD TEST\CRUD TEST\bin\Debug\DevExpress.XtraTreeList.v22.2.xml
+C:\Users\JahzAndre\Documents\Aplicaciones\Aplicaciones Escritorio\Net\CRUD TEST\CRUD TEST\bin\Debug\DevExpress.Office.v22.2.Core.xml
+C:\Users\JahzAndre\Documents\Aplicaciones\Aplicaciones Escritorio\Net\CRUD TEST\CRUD TEST\obj\Debug\CRUD TEST.csproj.AssemblyReference.cache
+C:\Users\JahzAndre\Documents\Aplicaciones\Aplicaciones Escritorio\Net\CRUD TEST\CRUD TEST\obj\Debug\CRUD TEST.csproj.SuggestedBindingRedirects.cache
+C:\Users\JahzAndre\Documents\Aplicaciones\Aplicaciones Escritorio\Net\CRUD TEST\CRUD TEST\obj\Debug\CRUD_TEST.Presentation.MenuProspectos_1001.resources
+C:\Users\JahzAndre\Documents\Aplicaciones\Aplicaciones Escritorio\Net\CRUD TEST\CRUD TEST\obj\Debug\CRUD_TEST.Properties.Resources.resources
+C:\Users\JahzAndre\Documents\Aplicaciones\Aplicaciones Escritorio\Net\CRUD TEST\CRUD TEST\obj\Debug\CRUD TEST.csproj.GenerateResource.cache
+C:\Users\JahzAndre\Documents\Aplicaciones\Aplicaciones Escritorio\Net\CRUD TEST\CRUD TEST\obj\Debug\CRUD TEST.exe.licenses
+C:\Users\JahzAndre\Documents\Aplicaciones\Aplicaciones Escritorio\Net\CRUD TEST\CRUD TEST\obj\Debug\CRUD TEST.csproj.CoreCompileInputs.cache
+C:\Users\JahzAndre\Documents\Aplicaciones\Aplicaciones Escritorio\Net\CRUD TEST\CRUD TEST\obj\Debug\CRUD TEST.csproj.CopyComplete
+C:\Users\JahzAndre\Documents\Aplicaciones\Aplicaciones Escritorio\Net\CRUD TEST\CRUD TEST\obj\Debug\CRUD TEST.exe
+C:\Users\JahzAndre\Documents\Aplicaciones\Aplicaciones Escritorio\Net\CRUD TEST\CRUD TEST\obj\Debug\CRUD TEST.pdb
+C:\Users\JahzAndre\Documents\Aplicaciones\Aplicaciones Escritorio\Net\CRUD TEST\CRUD TEST\obj\Debug\CRUD_TEST.Presentation.AgregarProspecto_1001.resources
