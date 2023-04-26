@@ -30,21 +30,30 @@ namespace CRUD_TEST.Presentation
         #region Methods...
         public void InitComponents()
         {
-            simpleButtonAgregar.Click += Buttons_Clicks;
+            
         }
         public void AgregarProspecto()
         {
             try
             {
                 Cursor.Current = Cursors.WaitCursor;
-                int NumeroFilasAfectadas = _ProspectoBAL.AddProspecto(new ProspectoInfo
+                int responseId = _ProspectoBAL.Save( new ProspectoInfo
                 {
                     FirstName = textEditFirstName.Text,
                     LastName = textEditLastName.Text,
                     NumberPhone = Convert.ToDecimal(textEditTelefono.Text),
                     Client = checkEditCliente.Checked,
+                    DateRegister = DateTime.Now
                 });
-                MessageBox.Show($"Operación exitosa. \nFilas afectadas: {NumeroFilasAfectadas}");
+                MessageBox.Show($"Nuevo prospecto agregado con Id: {responseId}");
+                //int NumeroFilasAfectadas = _ProspectoBAL.AddProspecto(new ProspectoInfo
+                //{
+                //    FirstName = textEditFirstName.Text,
+                //    LastName = textEditLastName.Text,
+                //    NumberPhone = Convert.ToDecimal(textEditTelefono.Text),
+                //    Client = checkEditCliente.Checked,
+                //});
+                // MessageBox.Show($"Operación exitosa. \nFilas afectadas: {NumeroFilasAfectadas}");
             }
             catch(Exception ex)
             {

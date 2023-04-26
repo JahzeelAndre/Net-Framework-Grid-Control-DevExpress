@@ -143,6 +143,7 @@
             this.simpleButtonAgregar.StyleController = this.layoutControlButtons;
             this.simpleButtonAgregar.TabIndex = 4;
             this.simpleButtonAgregar.Text = "Aceptar";
+            this.simpleButtonAgregar.Click += new System.EventHandler(this.Buttons_Clicks);
             // 
             // layoutControlGroup1
             // 

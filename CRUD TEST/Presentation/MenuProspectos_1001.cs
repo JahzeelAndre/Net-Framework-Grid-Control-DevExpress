@@ -10,6 +10,7 @@ using System.Threading.Tasks;
 using System.Windows.Forms;
 
 using CRUD_TEST_CORE.Business;
+using CRUD_TEST_CORE.Entities;
 using DevExpress.XtraGrid.Columns;
 using DevExpress.XtraGrid.Views.Grid;
 
@@ -48,7 +49,7 @@ namespace CRUD_TEST.Presentation
             try
             {
                 Cursor.Current = Cursors.WaitCursor;
-                gridControlListaProspectos.DataSource = _ProspectoBAL.GetListProspectos();
+                gridControlListaProspectos.DataSource = _ProspectoBAL.ObtenerListaProspectos();
             }
             catch(Exception ex)
             {
@@ -83,9 +84,18 @@ namespace CRUD_TEST.Presentation
                     int PosicionFilaSeleccionada = VistaPrincipal.FocusedRowHandle;
                     //Obtengo el texto de la celda en la fila y columna específicada.
                     int IdProspecto = Convert.ToInt32(VistaPrincipal.GetRowCellDisplayText(PosicionFilaSeleccionada, ColumnaId));
+                    bool responseDelete = _ProspectoBAL.Delete(new ProspectoInfo { Id = IdProspecto });
+                    if (responseDelete)
+                    {
+                        MessageBox.Show("Producto borrado exitosamente.");
+                    }
+                    else
+                    {
+                        MessageBox.Show("El producto no se pudo borrar.");
+                    }
                     //Guardo número de filas afectadas en la bd.
-                    int NumeroFilasAfectadas = _ProspectoBAL.DeleteProspecto(IdProspecto);
-                    MessageBox.Show($"Operación exitosa. \nFilas afectadas: {NumeroFilasAfectadas}");
+                    //int NumeroFilasAfectadas = _ProspectoBAL.DeleteProspecto(IdProspecto);
+                    //MessageBox.Show($"Operación exitosa. \nFilas afectadas: {NumeroFilasAfectadas}");
                     LlenarGrid();
                 }
                 catch (Exception ex)
@@ -103,7 +113,7 @@ namespace CRUD_TEST.Presentation
             string dateText = dateTimeOffsetEdit.Text;
             DateTime dateTime = DateTime.Parse(dateText);
             //gridControlListaProspectos.DataSource = _ProspectoBAL.GetListProspectoFilterDate(SqlDateTime.Parse(dateTimeOffsetEdit.Text));
-            gridControlListaProspectos.DataSource = _ProspectoBAL.GetListProspectoFilterDate(dateTime);
+            //gridControlListaProspectos.DataSource = _ProspectoBAL.GetListProspectoFilterDate(dateTime);
         }
         #endregion
     }

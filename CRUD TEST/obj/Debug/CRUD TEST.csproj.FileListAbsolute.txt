@@ -35,7 +35,6 @@ C:\Users\JahzAndre\Documents\Aplicaciones\Aplicaciones Escritorio\Net\CRUD TEST\
 C:\Users\JahzAndre\Documents\Aplicaciones\Aplicaciones Escritorio\Net\CRUD TEST\CRUD TEST\bin\Debug\DevExpress.XtraTreeList.v22.2.xml
 C:\Users\JahzAndre\Documents\Aplicaciones\Aplicaciones Escritorio\Net\CRUD TEST\CRUD TEST\bin\Debug\DevExpress.Office.v22.2.Core.xml
 C:\Users\JahzAndre\Documents\Aplicaciones\Aplicaciones Escritorio\Net\CRUD TEST\CRUD TEST\obj\Debug\CRUD TEST.csproj.AssemblyReference.cache
-C:\Users\JahzAndre\Documents\Aplicaciones\Aplicaciones Escritorio\Net\CRUD TEST\CRUD TEST\obj\Debug\CRUD TEST.csproj.SuggestedBindingRedirects.cache
 C:\Users\JahzAndre\Documents\Aplicaciones\Aplicaciones Escritorio\Net\CRUD TEST\CRUD TEST\obj\Debug\CRUD_TEST.Presentation.MenuProspectos_1001.resources
 C:\Users\JahzAndre\Documents\Aplicaciones\Aplicaciones Escritorio\Net\CRUD TEST\CRUD TEST\obj\Debug\CRUD_TEST.Properties.Resources.resources
 C:\Users\JahzAndre\Documents\Aplicaciones\Aplicaciones Escritorio\Net\CRUD TEST\CRUD TEST\obj\Debug\CRUD TEST.csproj.GenerateResource.cache
@@ -45,3 +44,51 @@ C:\Users\JahzAndre\Documents\Aplicaciones\Aplicaciones Escritorio\Net\CRUD TEST\
 C:\Users\JahzAndre\Documents\Aplicaciones\Aplicaciones Escritorio\Net\CRUD TEST\CRUD TEST\obj\Debug\CRUD TEST.exe
 C:\Users\JahzAndre\Documents\Aplicaciones\Aplicaciones Escritorio\Net\CRUD TEST\CRUD TEST\obj\Debug\CRUD TEST.pdb
 C:\Users\JahzAndre\Documents\Aplicaciones\Aplicaciones Escritorio\Net\CRUD TEST\CRUD TEST\obj\Debug\CRUD_TEST.Presentation.AgregarProspecto_1001.resources
+C:\Users\JahzAndre\Documents\Aplicaciones\Aplicaciones Escritorio\Net\CRUD TEST\CRUD TEST\bin\Debug\Azure.Core.dll
+C:\Users\JahzAndre\Documents\Aplicaciones\Aplicaciones Escritorio\Net\CRUD TEST\CRUD TEST\bin\Debug\Azure.Storage.Blobs.dll
+C:\Users\JahzAndre\Documents\Aplicaciones\Aplicaciones Escritorio\Net\CRUD TEST\CRUD TEST\bin\Debug\Azure.Storage.Common.dll
+C:\Users\JahzAndre\Documents\Aplicaciones\Aplicaciones Escritorio\Net\CRUD TEST\CRUD TEST\bin\Debug\ClosedXML.dll
+C:\Users\JahzAndre\Documents\Aplicaciones\Aplicaciones Escritorio\Net\CRUD TEST\CRUD TEST\bin\Debug\DocumentFormat.OpenXml.dll
+C:\Users\JahzAndre\Documents\Aplicaciones\Aplicaciones Escritorio\Net\CRUD TEST\CRUD TEST\bin\Debug\ExcelNumberFormat.dll
+C:\Users\JahzAndre\Documents\Aplicaciones\Aplicaciones Escritorio\Net\CRUD TEST\CRUD TEST\bin\Debug\Microsoft.Azure.KeyVault.Core.dll
+C:\Users\JahzAndre\Documents\Aplicaciones\Aplicaciones Escritorio\Net\CRUD TEST\CRUD TEST\bin\Debug\Microsoft.Azure.Storage.Blob.dll
+C:\Users\JahzAndre\Documents\Aplicaciones\Aplicaciones Escritorio\Net\CRUD TEST\CRUD TEST\bin\Debug\Microsoft.Azure.Storage.Common.dll
+C:\Users\JahzAndre\Documents\Aplicaciones\Aplicaciones Escritorio\Net\CRUD TEST\CRUD TEST\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\JahzAndre\Documents\Aplicaciones\Aplicaciones Escritorio\Net\CRUD TEST\CRUD TEST\bin\Debug\Newtonsoft.Json.dll
+C:\Users\JahzAndre\Documents\Aplicaciones\Aplicaciones Escritorio\Net\CRUD TEST\CRUD TEST\bin\Debug\SOLTUM.Framework.dll
+C:\Users\JahzAndre\Documents\Aplicaciones\Aplicaciones Escritorio\Net\CRUD TEST\CRUD TEST\bin\Debug\System.Buffers.dll
+C:\Users\JahzAndre\Documents\Aplicaciones\Aplicaciones Escritorio\Net\CRUD TEST\CRUD TEST\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\JahzAndre\Documents\Aplicaciones\Aplicaciones Escritorio\Net\CRUD TEST\CRUD TEST\bin\Debug\System.IO.Hashing.dll
+C:\Users\JahzAndre\Documents\Aplicaciones\Aplicaciones Escritorio\Net\CRUD TEST\CRUD TEST\bin\Debug\System.Memory.Data.dll
+C:\Users\JahzAndre\Documents\Aplicaciones\Aplicaciones Escritorio\Net\CRUD TEST\CRUD TEST\bin\Debug\System.Memory.dll
+C:\Users\JahzAndre\Documents\Aplicaciones\Aplicaciones Escritorio\Net\CRUD TEST\CRUD TEST\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\JahzAndre\Documents\Aplicaciones\Aplicaciones Escritorio\Net\CRUD TEST\CRUD TEST\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\JahzAndre\Documents\Aplicaciones\Aplicaciones Escritorio\Net\CRUD TEST\CRUD TEST\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\JahzAndre\Documents\Aplicaciones\Aplicaciones Escritorio\Net\CRUD TEST\CRUD TEST\bin\Debug\System.Text.Json.dll
+C:\Users\JahzAndre\Documents\Aplicaciones\Aplicaciones Escritorio\Net\CRUD TEST\CRUD TEST\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\JahzAndre\Documents\Aplicaciones\Aplicaciones Escritorio\Net\CRUD TEST\CRUD TEST\bin\Debug\System.ValueTuple.dll
+C:\Users\JahzAndre\Documents\Aplicaciones\Aplicaciones Escritorio\Net\CRUD TEST\CRUD TEST\bin\Debug\CRUD TEST CORE.dll.config
+C:\Users\JahzAndre\Documents\Aplicaciones\Aplicaciones Escritorio\Net\CRUD TEST\CRUD TEST\bin\Debug\Azure.Core.xml
+C:\Users\JahzAndre\Documents\Aplicaciones\Aplicaciones Escritorio\Net\CRUD TEST\CRUD TEST\bin\Debug\Azure.Storage.Blobs.xml
+C:\Users\JahzAndre\Documents\Aplicaciones\Aplicaciones Escritorio\Net\CRUD TEST\CRUD TEST\bin\Debug\Azure.Storage.Common.xml
+C:\Users\JahzAndre\Documents\Aplicaciones\Aplicaciones Escritorio\Net\CRUD TEST\CRUD TEST\bin\Debug\ClosedXML.pdb
+C:\Users\JahzAndre\Documents\Aplicaciones\Aplicaciones Escritorio\Net\CRUD TEST\CRUD TEST\bin\Debug\ClosedXML.xml
+C:\Users\JahzAndre\Documents\Aplicaciones\Aplicaciones Escritorio\Net\CRUD TEST\CRUD TEST\bin\Debug\DocumentFormat.OpenXml.xml
+C:\Users\JahzAndre\Documents\Aplicaciones\Aplicaciones Escritorio\Net\CRUD TEST\CRUD TEST\bin\Debug\ExcelNumberFormat.xml
+C:\Users\JahzAndre\Documents\Aplicaciones\Aplicaciones Escritorio\Net\CRUD TEST\CRUD TEST\bin\Debug\Microsoft.Azure.KeyVault.Core.xml
+C:\Users\JahzAndre\Documents\Aplicaciones\Aplicaciones Escritorio\Net\CRUD TEST\CRUD TEST\bin\Debug\Microsoft.Azure.Storage.Blob.xml
+C:\Users\JahzAndre\Documents\Aplicaciones\Aplicaciones Escritorio\Net\CRUD TEST\CRUD TEST\bin\Debug\Microsoft.Azure.Storage.Common.xml
+C:\Users\JahzAndre\Documents\Aplicaciones\Aplicaciones Escritorio\Net\CRUD TEST\CRUD TEST\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\JahzAndre\Documents\Aplicaciones\Aplicaciones Escritorio\Net\CRUD TEST\CRUD TEST\bin\Debug\Newtonsoft.Json.xml
+C:\Users\JahzAndre\Documents\Aplicaciones\Aplicaciones Escritorio\Net\CRUD TEST\CRUD TEST\bin\Debug\System.Buffers.xml
+C:\Users\JahzAndre\Documents\Aplicaciones\Aplicaciones Escritorio\Net\CRUD TEST\CRUD TEST\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\JahzAndre\Documents\Aplicaciones\Aplicaciones Escritorio\Net\CRUD TEST\CRUD TEST\bin\Debug\System.IO.Hashing.xml
+C:\Users\JahzAndre\Documents\Aplicaciones\Aplicaciones Escritorio\Net\CRUD TEST\CRUD TEST\bin\Debug\System.Memory.xml
+C:\Users\JahzAndre\Documents\Aplicaciones\Aplicaciones Escritorio\Net\CRUD TEST\CRUD TEST\bin\Debug\System.Memory.Data.xml
+C:\Users\JahzAndre\Documents\Aplicaciones\Aplicaciones Escritorio\Net\CRUD TEST\CRUD TEST\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\JahzAndre\Documents\Aplicaciones\Aplicaciones Escritorio\Net\CRUD TEST\CRUD TEST\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\JahzAndre\Documents\Aplicaciones\Aplicaciones Escritorio\Net\CRUD TEST\CRUD TEST\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\JahzAndre\Documents\Aplicaciones\Aplicaciones Escritorio\Net\CRUD TEST\CRUD TEST\bin\Debug\System.Text.Json.xml
+C:\Users\JahzAndre\Documents\Aplicaciones\Aplicaciones Escritorio\Net\CRUD TEST\CRUD TEST\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\JahzAndre\Documents\Aplicaciones\Aplicaciones Escritorio\Net\CRUD TEST\CRUD TEST\bin\Debug\System.ValueTuple.xml
+C:\Users\JahzAndre\Documents\Aplicaciones\Aplicaciones Escritorio\Net\CRUD TEST\CRUD TEST\obj\Debug\CRUD TEST.csproj.SuggestedBindingRedirects.cache
