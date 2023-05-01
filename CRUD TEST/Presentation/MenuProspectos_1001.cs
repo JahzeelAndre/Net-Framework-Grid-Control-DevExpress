@@ -60,6 +60,23 @@ namespace CRUD_TEST.Presentation
                 Cursor.Current = Cursors.Default;
             }
         }
+
+        public int GetIdProspecto() {
+            //Instanciamos clase GridView y asignamos la vista(MainView) del grid.
+            GridView gridView = gridControlListaProspectos.MainView as GridView;
+            //Verificamos si hay filas seleccionados, si si, se obtiene y manda el Id.
+            if (gridView.SelectedRowsCount > 0)
+            {
+                /*Obtenemos el texto de la celda de la fila y columna específicada con el método GetRowCellDisplayText, de la clase GridView, y le mandamos de argumento
+                la posición de la fila seleccionada y la columna 0(Id).*/
+                return Convert.ToInt32(gridView.GetRowCellDisplayText(gridView.FocusedRowHandle, gridView.Columns[0]));
+            }
+            else
+            {
+                //Se manda 0, porque no se seleccionó ninguna fila.
+                return 0;
+            }
+        }
         #endregion
 
         #region Events...
@@ -67,8 +84,9 @@ namespace CRUD_TEST.Presentation
         {
             if (sender == simpleButtonAgregar)
             {
-                AgregarProspecto_1001 agregarProspecto_1001 = new AgregarProspecto_1001();
-                agregarProspecto_1001.ShowDialog();
+                //Envíamos Id obtenido en el método GetIdProspecto
+                AgregarProspecto_1003 agregarProspecto_1003 = new AgregarProspecto_1003(GetIdProspecto());
+                agregarProspecto_1003.ShowDialog();
                 LlenarGrid();
             }
             else if (sender == simpleButtonEliminar)
@@ -116,5 +134,19 @@ namespace CRUD_TEST.Presentation
             //gridControlListaProspectos.DataSource = _ProspectoBAL.GetListProspectoFilterDate(dateTime);
         }
         #endregion
+
+        private void gridControlListaProspectos_Load(object sender, EventArgs e)
+        {
+            LlenarGrid();
+            GridView gridView = gridControlListaProspectos.MainView as GridView;
+            gridView.ClearSelection();
+            gridView.DoubleClick += GridView_DoubleClick;
+        }
+        private void GridView_DoubleClick(object sender, EventArgs e)
+        {
+            GridView gridView = gridControlListaProspectos.MainView as GridView;
+            gridView.UnselectRow(gridView.FocusedRowHandle);
+            gridView.ClearSelection();
+        }
     }
 }

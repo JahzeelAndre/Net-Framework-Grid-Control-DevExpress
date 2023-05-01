@@ -38,6 +38,17 @@ namespace CRUD_TEST_CORE.Business
             return DataAccessLayer.GetEntityObjects().ToList();
         }
 
+        public List<ProspectoInfo> ObtenerProspecto(int Id)
+        {
+            return DataAccessLayer.GetEntityObjects
+                (
+                    new List<Condition> 
+                    { 
+                        new Condition($"{ProspectoInfo.FieldsNames.Id}", "=", $"{Id}")
+                    }
+                ).ToList();
+        }
+
         //public Entities.ProspectoInfo GetProspecto(int Id)
         //{
         //    return _ProspectoDAL.GetProspecto(Id);

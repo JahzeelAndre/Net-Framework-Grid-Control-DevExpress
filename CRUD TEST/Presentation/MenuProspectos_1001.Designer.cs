@@ -131,12 +131,12 @@
             this.simpleButtonAgregar.Appearance.Font = new System.Drawing.Font("Times New Roman", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.simpleButtonAgregar.Appearance.Options.UseFont = true;
             this.simpleButtonAgregar.AutoWidthInLayoutControl = true;
-            this.simpleButtonAgregar.Location = new System.Drawing.Point(108, 12);
+            this.simpleButtonAgregar.Location = new System.Drawing.Point(112, 12);
             this.simpleButtonAgregar.Name = "simpleButtonAgregar";
-            this.simpleButtonAgregar.Size = new System.Drawing.Size(56, 24);
+            this.simpleButtonAgregar.Size = new System.Drawing.Size(48, 24);
             this.simpleButtonAgregar.StyleController = this.layoutControl2;
             this.simpleButtonAgregar.TabIndex = 4;
-            this.simpleButtonAgregar.Text = "Agregar";
+            this.simpleButtonAgregar.Text = "Nueva";
             this.simpleButtonAgregar.Click += new System.EventHandler(this.Buttons_Clicks);
             // 
             // layoutControlGroup1
@@ -210,6 +210,7 @@
             this.gridControlListaProspectos.TabIndex = 4;
             this.gridControlListaProspectos.ViewCollection.AddRange(new DevExpress.XtraGrid.Views.Base.BaseView[] {
             this.gridView1});
+            this.gridControlListaProspectos.Load += new System.EventHandler(this.gridControlListaProspectos_Load);
             // 
             // prospectoInfoBindingSource
             // 
@@ -228,10 +229,14 @@
             this.colNumberPhone,
             this.colClient,
             this.colDateRegister});
+            this.gridView1.FocusRectStyle = DevExpress.XtraGrid.Views.Grid.DrawFocusRectStyle.RowFocus;
             this.gridView1.GridControl = this.gridControlListaProspectos;
             this.gridView1.Name = "gridView1";
             this.gridView1.OptionsBehavior.Editable = false;
+            this.gridView1.OptionsNavigation.AutoMoveRowFocus = false;
+            this.gridView1.OptionsSelection.EnableAppearanceFocusedCell = false;
             this.gridView1.OptionsSelection.MultiSelect = true;
+            this.gridView1.OptionsSelection.ResetSelectionClickOutsideCheckboxSelector = true;
             // 
             // colId
             // 
