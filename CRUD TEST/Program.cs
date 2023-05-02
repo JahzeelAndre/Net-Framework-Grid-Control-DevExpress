@@ -16,7 +16,7 @@ namespace CRUD_TEST
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new Presentation.MenuProspectos_1001());
+            Application.Run(new Presentation.MenuProspectos_1002());
         }
     }
 }

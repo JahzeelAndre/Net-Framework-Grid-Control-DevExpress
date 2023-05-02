@@ -65,7 +65,7 @@ namespace CRUD_TEST.Presentation
                     for (int i = 0; i < gridView.RowCount; i++)
                     {
                         //Ejecuta el método guardar.
-                        _ProspectoBAL.Save
+                        int NuevoId = _ProspectoBAL.Save
                             (
                             //Crea objetos nuevos para agregar.
                                 new CRUD_TEST_CORE.Entities.ProspectoInfo
@@ -78,6 +78,14 @@ namespace CRUD_TEST.Presentation
                                     DateRegister = DateTime.Now,
                                 }
                             );
+                        if (Id > 0)
+                        {
+                            MessageBox.Show($"Prospecto actualizado correctamente con Id {NuevoId}");
+                        }
+                        else
+                        {
+                            MessageBox.Show($"Prospecto agregado correctamente con Id {NuevoId}");
+                        }
                     }
                 }
                 catch (Exception ex)
