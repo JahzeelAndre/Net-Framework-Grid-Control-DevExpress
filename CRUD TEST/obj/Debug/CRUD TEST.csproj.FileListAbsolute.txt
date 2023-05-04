@@ -128,3 +128,4 @@ C:\Users\JahzAndre\Documents\Aplicaciones\Aplicaciones Escritorio\Net\CRUD TEST\
 C:\Users\JahzAndre\Documents\Aplicaciones\Aplicaciones Escritorio\Net\CRUD TEST\CRUD TEST\bin\Debug\DevExpress.TreeMap.v22.2.Core.xml
 C:\Users\JahzAndre\Documents\Aplicaciones\Aplicaciones Escritorio\Net\CRUD TEST\CRUD TEST\obj\Debug\CRUD_TEST.Presentation.AgregarProspecto_1002.resources
 C:\Users\JahzAndre\Documents\Aplicaciones\Aplicaciones Escritorio\Net\CRUD TEST\CRUD TEST\obj\Debug\CRUD_TEST.Presentation.AgregarProspecto_1003.resources
+C:\Users\JahzAndre\Documents\Aplicaciones\Aplicaciones Escritorio\Net\CRUD TEST\CRUD TEST\obj\Debug\CRUD_TEST.Presentation.AgregarProspecto_1004.resources

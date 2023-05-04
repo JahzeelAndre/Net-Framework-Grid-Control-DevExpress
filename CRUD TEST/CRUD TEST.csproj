@@ -214,6 +214,12 @@
     <Compile Include="Presentation\AgregarProspecto_1003.Designer.cs">
       <DependentUpon>AgregarProspecto_1003.cs</DependentUpon>
     </Compile>
+    <Compile Include="Presentation\AgregarProspecto_1004.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Presentation\AgregarProspecto_1004.Designer.cs">
+      <DependentUpon>AgregarProspecto_1004.cs</DependentUpon>
+    </Compile>
     <Compile Include="Presentation\MenuProspectos_1001.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -236,6 +242,9 @@
     </EmbeddedResource>
     <EmbeddedResource Include="Presentation\AgregarProspecto_1003.resx">
       <DependentUpon>AgregarProspecto_1003.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Presentation\AgregarProspecto_1004.resx">
+      <DependentUpon>AgregarProspecto_1004.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="Presentation\MenuProspectos_1001.resx">
       <DependentUpon>MenuProspectos_1001.cs</DependentUpon>

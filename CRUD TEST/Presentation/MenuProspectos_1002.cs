@@ -65,8 +65,8 @@ namespace CRUD_TEST.Presentation
             else
             {
                 int IdProspecto = GetIdProspecto();
-                AgregarProspecto_1003 agregarProspecto_1003 = new AgregarProspecto_1003(IdProspecto);
-                agregarProspecto_1003.ShowDialog();
+                AgregarProspecto_1004 agregarProspecto_1004 = new AgregarProspecto_1004(IdProspecto);
+                agregarProspecto_1004.ShowDialog();
                 FillGrid();
             }
         }
